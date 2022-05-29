@@ -1,0 +1,12 @@
+class Day{
+int k=10;
+int h=12;
+public Static void main(String [] args){
+
+System.out.Println(k+h);
+
+}
+
+
+
+}
